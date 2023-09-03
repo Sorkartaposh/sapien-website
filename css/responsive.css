@@ -1,0 +1,882 @@
+/*
+====================================
+large Screen - Others
+====================================
+*/
+@media screen and (min-width:1201px) and (max-width:1400px) {
+.menu-item {
+    gap:80px;
+}
+.menu-item ul {
+    display: flex;
+    align-items: center;
+    gap:80px;
+}
+.hero-left h2 {
+    font-weight:700;
+    font-size:40px;
+    line-height:50px;
+    margin-bottom:20px;
+}
+.hero-left p {
+    font-weight:300;
+    line-height:30px;
+    font-size:22px;
+    margin-bottom:0;
+}
+.hero-left-btn a {
+    font-size:18px !important;
+}
+.hero-left-btn {
+    margin-top:30px;
+}
+.testimonial-item p {
+    font-size:35px;
+    line-height:40px;
+    margin-top:25px;
+    margin-bottom:20px;
+}
+.testimonial-item span {
+    font-size:22px;
+}
+.testimonial-item img{
+    width:100%;
+    max-width:40px;
+}
+.investment-right > h2 {
+    font-size:40px;
+    line-height:50px;
+    margin-bottom:20px;
+}
+.investment-right-item img {
+    margin-bottom:12px;
+    width:100%;
+    max-width:30px;
+}
+.investment-right-item p {
+    font-size:22px;
+    font-weight: 300;
+    color: #13294B;
+    line-height:20px;
+    margin-bottom: 0;
+}
+.investment-right-item label {
+    font-size:22px;
+}
+.invest-cart-item-img {
+    max-width: 100%;
+    min-height: 264px;
+}
+.invest-cart-item-img img {
+    width:100%;
+    max-width:170px;
+}
+.invest-cart-item p {
+    font-size:20px ;
+    line-height:25px;
+}
+.footer-header h2 {
+    font-size:40px;
+    line-height:50px;
+    margin-bottom:10px;
+}
+.footer-header p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 35px;
+    margin-bottom:20px;
+}
+.contact-btn a {
+    font-size:20px !important;
+}
+.footer-item h4 {
+    font-size:22px;
+    margin-bottom:24px;
+}
+.footer-item ul li a {
+    font-size:20px;
+    font-weight: 400;
+}
+.footer-item ul li a img {
+    width:35px;
+    height:35px;
+}
+.footer-item ul li {
+    margin-bottom:10px;
+}
+.copyright-area p {
+    font-size:20px;
+}
+.copyright-area ul li a {
+    font-size:20px;
+}
+
+
+
+
+
+}
+/*
+====================================
+Medium Screen - Others
+====================================
+*/
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+    .menu-item {
+        gap:40px;
+    }
+    .menu-item ul {
+        display: flex;
+        align-items: center;
+        gap:40px;
+    }
+    .hero-left h2 {
+        font-weight:700;
+        font-size:40px;
+        line-height:50px;
+        margin-bottom:20px;
+    }
+    .hero-left p {
+        font-weight:300;
+        line-height:30px;
+        font-size:22px;
+        margin-bottom:0;
+    }
+    .hero-left-btn a {
+        font-size:18px !important;
+    }
+    .hero-left-btn {
+        margin-top:30px;
+    }
+    .testimonial-item p {
+        font-size:35px;
+        line-height:40px;
+        margin-top:25px;
+        margin-bottom:20px;
+    }
+    .testimonial-item span {
+        font-size:22px;
+    }
+    .testimonial-item img{
+        width:100%;
+        max-width:40px;
+    }
+    .investment-right > h2 {
+        font-size:40px;
+        line-height:50px;
+        margin-bottom:20px;
+    }
+    .investment-right-item img {
+        margin-bottom:12px;
+        width:100%;
+        max-width:30px;
+    }
+    .investment-right-item p {
+        font-size:22px;
+        font-weight: 300;
+        color: #13294B;
+        line-height:20px;
+        margin-bottom: 0;
+    }
+    .investment-right-item label {
+        font-size:22px;
+    }
+    .invest-cart-item-img {
+        max-width: 100%;
+        min-height: 264px;
+    }
+    .invest-cart-item-img img {
+        width:100%;
+        max-width:170px;
+    }
+    .invest-cart-item p {
+        font-size:20px ;
+        line-height:25px;
+    }
+    .footer-header h2 {
+        font-size:40px;
+        line-height:50px;
+        margin-bottom:10px;
+    }
+    .footer-header p {
+        font-family: 'Roboto', sans-serif;
+        font-size: 22px;
+        font-weight: 400;
+        line-height: 35px;
+        margin-bottom:20px;
+    }
+    .contact-btn a {
+        font-size:20px !important;
+    }
+    .footer-item h4 {
+        font-size:22px;
+        margin-bottom:24px;
+    }
+    .footer-item ul li a {
+        font-size:20px;
+        font-weight: 400;
+    }
+    .footer-item ul li a img {
+        width:35px;
+        height:35px;
+    }
+    .footer-item ul li {
+        margin-bottom:10px;
+    }
+    .copyright-area p {
+        font-size:20px;
+    }
+    .copyright-area ul li a {
+        font-size:20px;
+    }
+    
+    .fs-item-middle img {
+        width: 100%;
+        max-width:100px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Small Screen - Tablate
+====================================
+*/
+@media screen and (min-width: 768px) and (max-width: 991px) {
+    .invest-cart-item {
+        max-width:100%;
+    }
+    .menu-item {
+        flex-direction:column;
+        gap:40px;
+        display:none;
+    }
+    .logo i {
+        display:block;
+    }
+
+    .hero-left h2 {
+        font-weight:700;
+        font-size:40px;
+        line-height:50px;
+        margin-bottom:20px;
+    }
+    .hero-left p {
+        font-weight:300;
+        line-height:30px;
+        font-size:22px;
+        margin-bottom:0;
+    }
+    .hero-left {
+        margin-bottom:50px;
+    }
+    .hero-left-btn a {
+        font-size:18px !important;
+    }
+    .hero-left-btn {
+        margin-top:30px;
+    }
+    .testimonial-area {
+        margin-top:80px;
+    }
+    .testimonial-item p {
+        font-size:25px;
+        line-height:40px;
+        margin-top:25px;
+        margin-bottom:10px;
+    }
+    .testimonial-item span {
+        font-size:18px;
+    }
+    .testimonial-item img{
+        width:100%;
+        max-width:30px;
+    }
+    .investment-area {
+        margin-top: 100px;
+        padding-top:80px;
+        padding-bottom:60px;
+    }
+    .investment-right > h2 {
+        font-size:35px;
+        line-height:40px;
+        margin-bottom:30px;
+        text-align: center;
+    }
+    .investment-left img {
+        width: 100%;
+        max-width: 660px;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+    }
+    .investment-right-item img {
+        margin-bottom:12px;
+        width:100%;
+        max-width:30px;
+    }
+    .investment-right-item p {
+        font-size:20px;
+        font-weight: 300;
+        color: #13294B;
+        line-height:20px;
+        margin-bottom: 0;
+    }
+    .investment-right-item label {
+        font-size:20px;
+    }
+    .invest-cart-item-img {
+        max-width: 100%;
+        min-height: 264px;
+    }
+    .invest-cart-item-img img {
+        width:100%;
+        max-width:170px;
+    }
+    .invest-cart-item p {
+        font-size:18px ;
+        line-height:25px;
+    }
+    footer {
+        padding-top:50px;
+        margin-top:100px;
+    }
+    .contact-btn {
+        margin-bottom:80px;
+    }
+    .footer-header h2 {
+        font-size:40px;
+        line-height:50px;
+        margin-bottom:10px;
+    }
+    .footer-header p {
+        font-family: 'Roboto', sans-serif;
+        font-size: 22px;
+        font-weight: 400;
+        line-height: 35px;
+        margin-bottom:20px;
+    }
+    .footer-item {
+        margin-bottom:40px;
+    }
+    .copyright-area {
+        margin-top:0px;
+        flex-direction:column;
+    }
+    .contact-btn a {
+        font-size:18px !important;
+    }
+    .footer-item h4 {
+        font-size:20px;
+        margin-bottom:10px;
+    }
+    .footer-item ul li a {
+        font-size:18px;
+        font-weight: 400;
+    }
+    .footer-item ul li a img {
+        width:35px;
+        height:35px;
+    }
+    .footer-item ul li {
+        margin-bottom:10px;
+    }
+    .copyright-area p {
+        font-size:18px;
+    }
+    .copyright-area ul li a {
+        font-size:18px;
+    }
+    .Community-header h2 {
+        font-size:50px;
+    }
+
+    .fs-header h2 {
+        font-family: 'Poppins', sans-serif;
+        font-size: 50px;
+        font-weight: 700;
+        line-height: 70px;
+        margin-bottom: 70px;
+        color: #ffffff;
+        text-align: center;
+    }
+
+    .fshero-area {
+        padding-top:40px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Small Screen - Mobile
+====================================
+*/
+@media screen and (min-width: 576px) and (max-width: 767px) {	
+    .invest-cart-item {
+        max-width:100%;
+    }
+    .logo i {
+        display:block;
+    }
+    .menu-item {
+        flex-direction:column;
+        gap:40px;
+        display:none;
+    }
+
+    .logo img {
+        max-width:170px;
+    }
+    header {
+        background-color:#F3F6F9;
+        padding:30px 0;
+    }
+    .hero-left h2 {
+        font-weight:700;
+        font-size:35px;
+        line-height:40px;
+        margin-bottom:15px;
+    }
+    .hero-left p {
+        font-weight:300;
+        line-height:30px;
+        font-size:18px;
+        margin-bottom:0;
+    }
+    .hero-left {
+        margin-bottom:50px;
+    }
+    .hero-left-btn a {
+        font-size:14px !important;
+    }
+    .hero-left-btn {
+        margin-top:20px;
+    }
+    .testimonial-area {
+        margin-top:50px;
+    }
+    .testimonial-item p {
+        font-size:20px;
+        line-height:30px;
+        margin-top:10px;
+        margin-bottom:5px;
+    }
+    .testimonial-item span {
+        font-size:16px;
+    }
+    .testimonial-item img{
+        width:100%;
+        max-width:20px;
+    }
+    .investment-area {
+        margin-top: 50px;
+        padding-top:80px;
+        padding-bottom:60px;
+    }
+    .investment-right > h2 {
+        font-size:35px;
+        line-height:40px;
+        margin-bottom:30px;
+        text-align: center;
+    }
+    .investment-left img {
+        width: 100%;
+        max-width: 660px;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+    }
+    .investment-right-item p {
+        font-size:18px;
+        line-height:20px;
+        margin-bottom: 0;
+    }
+    .investment-right-item label {
+        font-size:18px;
+        margin-top:10px;
+    }
+    .invest-cart-item-img {
+        max-width: 100%;
+        min-height: 250px;
+    }
+    .invest-cart-item-img img {
+        width:100%;
+        max-width:200px;
+    }
+    .invest-cart-item p {
+        font-size:16px ;
+        line-height:25px;
+    }
+    footer {
+        padding-top:40px;
+        margin-top:50px;
+    }
+    .contact-btn {
+        margin-bottom:60px;
+    }
+    .footer-header h2 {
+        font-size:30px;
+        line-height:40px;
+        margin-bottom:10px;
+    }
+    .footer-header p {
+        font-size:18px;
+        font-weight:400;
+        line-height:20px;
+        margin-bottom:20px;
+    }
+    .footer-item {
+        margin-bottom:30px;
+    }
+    .copyright-area {
+        margin-top:0px;
+        flex-direction:column;
+    }
+    .contact-btn a {
+        font-size:16px !important;
+    }
+    .footer-item h4 {
+        font-size:18px;
+        margin-bottom:10px;
+    }
+    .footer-item ul li a {
+        font-size:16px;
+        font-weight: 400;
+    }
+    .footer-item ul li a img {
+        width:30px;
+        height:30px;
+    }
+    .footer-item ul li {
+        margin-bottom:10px;
+    }
+    .copyright-area p {
+        font-size:16px;
+    }
+    .copyright-area ul li a {
+        font-size:16px;
+    }
+    .Community-header h2 {
+        font-size:40px;
+        margin-bottom:20px;
+    }
+    .community-cart-content {
+        margin-bottom:25px;
+    }
+    .cc-body p {
+        font-size:20px;
+        line-height: 25px;
+    }
+    .cc-header img {
+        width:100%;
+        max-width:200px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .Community-area {
+        margin-top:55px;
+    }
+
+    .fs-header h2 {
+        font-family: 'Poppins', sans-serif;
+        font-size:40px;
+        font-weight: 700;
+        line-height: 70px;
+        margin-bottom: 70px;
+        color: #ffffff;
+        text-align: center;
+    }
+
+    .fshero-area {
+        padding-top:40px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Xtra Small Screen - Small Mobile
+====================================
+*/
+@media screen and (max-width: 576px) {
+    .invest-cart-item {
+        max-width:100%;
+    }
+    .logo i {
+        display:block;
+        font-size:25px;
+    }
+    .menu-item {
+        flex-direction:column;
+        gap:40px;
+        display:none;
+    }
+
+    .logo img {
+        max-width:150px;
+    }
+    header {
+        background-color:#F3F6F9;
+        padding:30px 0;
+    }
+    .hero-left h2 {
+        font-weight:700;
+        font-size:30px;
+        line-height:30px;
+        margin-bottom:15px;
+    }
+    .hero-left p {
+        font-weight:300;
+        line-height:20px;
+        font-size:14px;
+        margin-bottom:0;
+    }
+    .hero-left {
+        margin-bottom:40px;
+    }
+    .hero-left-btn a {
+        font-size:14px !important;
+        padding:10px 15px !important;
+    }
+    .hero-left-btn {
+        margin-top:20px;
+    }
+    .testimonial-area {
+        margin-top:50px;
+    }
+    .testimonial-item p {
+        font-size:16px;
+        line-height:20px;
+        margin-top:10px;
+        margin-bottom:0px;
+    }
+    .testimonial-item span {
+        font-size:12px;
+    }
+    .testimonial-item img{
+        width:100%;
+        max-width:15px;
+    }
+    .investment-area {
+        margin-top:50px;
+        padding-top:80px;
+        padding-bottom:60px;
+    }
+    .investment-right > h2 {
+        font-size:25px;
+        line-height:30px;
+        margin-bottom:30px;
+        text-align: center;
+    }
+    .investment-left img {
+        width: 100%;
+        max-width: 300px;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+    }
+    .investment-right-item p {
+        font-size:16px;
+        line-height:20px;
+        margin-bottom: 0;
+    }
+    .investment-right-content {
+        flex-direction:column;
+    }
+    .investment-right-item {
+        max-width:100%;
+        min-height: 224px;
+        padding:20px;
+        border-radius:15px;
+    }
+    .investment-right-item label {
+        font-size:16px;
+        margin-top:10px;
+    }
+    .invest-cart-item-img {
+        max-width: 100%;
+        min-height: 250px;
+    }
+    .invest-cart-item-img img {
+        width:100%;
+        max-width:200px;
+    }
+    .invest-cart-item p {
+        font-size:16px ;
+        line-height:25px;
+    }
+    footer {
+        padding-top:40px;
+        margin-top:50px;
+    }
+    .contact-btn {
+        margin-bottom:60px;
+    }
+    .footer-header h2 {
+        font-size:25px;
+        line-height:40px;
+        margin-bottom:10px;
+    }
+    .footer-header p {
+        font-size:16px;
+        font-weight:400;
+        line-height:20px;
+        margin-bottom:20px;
+    }
+    .footer-item {
+        margin-bottom:25px;
+    }
+    .copyright-area {
+        margin-top:0px;
+        flex-direction:column;
+    }
+    .contact-btn {
+        gap:10px;
+    }
+    .contact-btn a {
+        font-size:14px !important;
+    }
+    .footer-item h4 {
+        font-size:18px;
+        margin-bottom:10px;
+    }
+    .footer-item ul li a {
+        font-size:16px;
+        font-weight: 400;
+    }
+    .footer-item ul li a img {
+        width:30px;
+        height:30px;
+    }
+    .footer-item ul li {
+        margin-bottom:10px;
+    }
+    .copyright-area p {
+        font-size:16px;
+    }
+    .copyright-area ul li a {
+        font-size:16px;
+    }
+    .offcanvas-header a img {
+        width: 120px;
+    }
+    .Community-header h2 {
+        font-size:35px;
+        line-height:35px;
+        margin-bottom:30px;
+    }
+    .community-cart-content {
+        margin-bottom:10px;
+    }
+    .cc-body p {
+        font-size:16px;
+        line-height: 25px;
+    }
+    .cc-header img {
+        width:100%;
+        max-width:200px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .Community-area {
+        margin-top:55px;
+    }
+    .cc-header h2 {
+        font-size:22px;
+        margin-bottom:0;
+    }
+    .cc-header p {
+        font-size:16px;
+    }
+.hero-left img {
+    width:100%;
+    max-width:50px;
+    margin-bottom:10px;
+}
+.fs-item-middle img {
+    width: 100%;
+    max-width: 120px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.fshero-area {
+    padding-top:50px;
+}
+.fs-area {
+    margin-top:50px;
+}
+.fs-header h2 {
+    font-size:40px;
+    line-height:35px;
+}
+
+
+
+
+
+
+
+}
